@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kamlesh-DevOP
-- 👀 I’m interested in Web development
+- 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Python
 - 📫 You may reach me out in Telegram @Kamlesh_7
 
