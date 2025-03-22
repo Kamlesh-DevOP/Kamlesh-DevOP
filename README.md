@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kamlesh-DevOP
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Flutter
+- 🐍 I know python
 - 📫 Mail me at tjkamlesh@gmail.com
 
 <!---
