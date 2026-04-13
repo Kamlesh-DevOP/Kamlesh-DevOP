@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kamlesh-DevOP
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently trying to learn Flutter and React
-- 🐍 I know python
+- 🌱 I’m currently working on React projects
 
 <!---
 Kamlesh-DevOP/Kamlesh-DevOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
