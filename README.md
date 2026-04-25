@@ -7,12 +7,6 @@
     <br>I'm <strong>Kamlesh</strong>
   </h1>
   <p><i>AI & Data Science Student | Full-Stack Explorer | Aspiring Machine Learning Engineer</i></p>
-
-  <a href="https://github.com/Kamlesh-DevOP">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub" />
-  </a>
 </div>
 
 <h2 align="left">
@@ -36,7 +30,6 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
   Contributions Graph
 </h2>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamlesh-DevOP/Kamlesh-DevOP/output/github-contribution-grid-snake-dark.svg">
