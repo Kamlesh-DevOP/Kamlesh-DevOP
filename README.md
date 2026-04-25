@@ -32,7 +32,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Building+Financial+Co-pilots;DevOps+%26+Full-Stack+Explorer;Hackathon+%26+Ideathon+Enthusiast" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kamlesh-DevOP/Kamlesh-DevOP/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+<h2 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
+  Contributions Graph
+</h2>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamlesh-DevOP/Kamlesh-DevOP/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kamlesh-DevOP/Kamlesh-DevOP/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kamlesh-DevOP/Kamlesh-DevOP/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
